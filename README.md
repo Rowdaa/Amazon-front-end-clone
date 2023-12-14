@@ -23,7 +23,7 @@ This is a front-end application inspired by Amazon, built using React and Fireba
 
 ### Prerequisites
 
-- Node.js (version X.X.X)
+- Node.js 
 
 ### Installation
 
